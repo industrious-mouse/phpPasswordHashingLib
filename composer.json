@@ -1,0 +1,16 @@
+{
+    "name": "industrious/php-password-hashing-lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Christian Thomas",
+            "email": "christian@industrious.agency",
+            "homepage": "http://github.com/christian-thomas"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "passwordLib.php"
+        ]
+    }
+}
